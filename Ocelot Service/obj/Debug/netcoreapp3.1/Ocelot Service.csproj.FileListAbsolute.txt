@@ -1,0 +1,37 @@
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.exe
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.deps.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.runtimeconfig.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.runtimeconfig.dev.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot Service.pdb
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.csprojAssemblyReference.cache
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.AssemblyInfoInputs.cache
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.AssemblyInfo.cs
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.RazorTargetAssemblyInfo.cache
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.csproj.CopyComplete
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\staticwebassets\Ocelot Service.StaticWebAssets.Manifest.cache
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\staticwebassets\Ocelot Service.StaticWebAssets.xml
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\obj\Debug\netcoreapp3.1\Ocelot Service.pdb
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\Ocelot.JwtAuthorize.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osman\RiderProjects\WebApplication\Ocelot Service\bin\Debug\netcoreapp3.1\JWT.dll

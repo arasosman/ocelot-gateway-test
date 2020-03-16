@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocelot Service", "Ocelot Service\Ocelot Service.csproj", "{41A66FB3-879C-4E6B-ADB1-A8922D848F53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reader", "Reader\Reader.csproj", "{3F48B41D-5558-4761-A33E-2741F2D1C234}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Writer", "Writer\Writer.csproj", "{832A1EDA-F2E9-4E57-9F89-2C92CDC196AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A66FB3-879C-4E6B-ADB1-A8922D848F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A66FB3-879C-4E6B-ADB1-A8922D848F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A66FB3-879C-4E6B-ADB1-A8922D848F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A66FB3-879C-4E6B-ADB1-A8922D848F53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F48B41D-5558-4761-A33E-2741F2D1C234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F48B41D-5558-4761-A33E-2741F2D1C234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F48B41D-5558-4761-A33E-2741F2D1C234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F48B41D-5558-4761-A33E-2741F2D1C234}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832A1EDA-F2E9-4E57-9F89-2C92CDC196AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832A1EDA-F2E9-4E57-9F89-2C92CDC196AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832A1EDA-F2E9-4E57-9F89-2C92CDC196AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832A1EDA-F2E9-4E57-9F89-2C92CDC196AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
